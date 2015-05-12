@@ -1,0 +1,6 @@
+James Ziemba
+Started and completed this APT on March 1. It took about an hour.
+I did not consult anyone. 
+I did not consult any outside resources.
+Once I realized that I could sort the strings by counting the number of "/" and then sorting from there, this APT
+was pretty easy. I used Collections.sort()

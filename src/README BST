@@ -1,0 +1,9 @@
+James Ziemba
+Started and completed this APT on March 1. It took a couple hours.
+I consulted a Cornell CS Dept. PDF re: memoization and StackOverflow.
+I did not consult anyone else.
+I struggled with this APT. Once I finally was able to get the problem to solve with memoization. Only
+the case with n=19 would solve (before that, n=19,n=20, and n=21 would exceed time limit). I tried to
+do all I could to reduce runtime, which is why I resorted to defining extra base cases so the 
+program would run just that little bit faster. I realize this might not be ideal, but given that I did
+not know any other ways to improve my code, this was my only hope.
